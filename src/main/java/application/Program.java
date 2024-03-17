@@ -11,8 +11,8 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Position position = new Position(1, 5);
-        System.out.println("a");
+        Position pos = new Position(3, 5);
+        System.out.println(pos);
 
     }
 
